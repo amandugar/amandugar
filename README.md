@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Aman's github stats](https://github-readme-stats.vercel.app/api/?username=amandugar&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandugar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amandugar/amandugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
